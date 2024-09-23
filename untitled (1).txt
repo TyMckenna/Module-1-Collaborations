@@ -1,0 +1,5 @@
+Some things that went wrong 
+The test method name (test_list_fraction)
+The test module (test) and the test case (TestSum)
+A traceback to the failing line
+The details of the assertion with the expected result (1) and the actual result (Fraction(9, 10))
